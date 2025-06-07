@@ -17,7 +17,7 @@ But just in case, here are the main things to do in the game:
 - **Select a random coordinate** to attack (not case-sensitive)
 - First one who has **4 ships sunk loses**!
 
-...and that just about sums up this README. What are you waiting for?? GO PLAY THE GA-  
+...and that just about sums up this README. What are you waiting for?? GO PLAY THE GAME!!!  
 ###### (don't scroll down there btw)
 
 
